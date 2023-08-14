@@ -1,4 +1,4 @@
 # dotfiles
 
 
-dependencies : bspwm sxhkd polybar picom dmenu dunst nitrogen kitty thunar 
+dependencies : bspwm sxhkd polybar picom dmenu dunst kitty thunar pywal
