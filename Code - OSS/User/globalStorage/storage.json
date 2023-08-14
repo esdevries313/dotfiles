@@ -23,9 +23,9 @@
             "backupPath": "/home/erwindv/.config/Code - OSS/Backups/993b3f2d66b29fdb275e1a46fc41eb64",
             "uiState": {
                 "mode": 1,
-                "x": 2651,
+                "x": 14,
                 "y": 56,
-                "width": 775,
+                "width": 910,
                 "height": 1370
             }
         },
@@ -69,7 +69,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
