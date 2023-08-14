@@ -1,0 +1,5 @@
+[Default Applications]
+application/vnd.ms-publisher=code-oss.desktop
+
+[Added Associations]
+application/vnd.ms-publisher=code-oss.desktop;
