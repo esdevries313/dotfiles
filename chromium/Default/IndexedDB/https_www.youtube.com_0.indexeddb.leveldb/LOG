@@ -1,3 +1,10 @@
 2023/08/14-21:03:45.993 3c8 Reusing MANIFEST /home/erwindv/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
 2023/08/14-21:03:45.993 3c8 Recovering log #31
 2023/08/14-21:03:46.014 3c8 Reusing old log /home/erwindv/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000031.log 
+2023/08/14-21:11:55.673 3c9 Level-0 table #36: started
+2023/08/14-21:11:55.691 3c9 Level-0 table #36: 1516931 bytes OK
+2023/08/14-21:11:55.699 3c9 Delete type=0 #31
+2023/08/14-21:12:23.124 3c9 Compacting 1@1 + 1@2 files
+2023/08/14-21:12:23.132 3c9 Generated table #37@1: 426 keys, 48927 bytes
+2023/08/14-21:12:23.132 3c9 Compacted 1@1 + 1@2 files => 48927 bytes
+2023/08/14-21:12:23.141 3c9 compacted to: files[ 0 0 1 0 0 0 0 ]
